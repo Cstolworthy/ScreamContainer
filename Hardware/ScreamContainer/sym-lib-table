@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "74HC595N")(type "KiCad")(uri "C:/src/ScreamContainer/Hardware/libraries/74HC595N/LOGIC-74HC595N_DIP16_.kicad_sym")(options "")(descr ""))
+  (lib (name "nano")(type "KiCad")(uri "C:/src/ScreamContainer/Hardware/libraries/Nano/ARDUINO_NANO.kicad_sym")(options "")(descr ""))
+  (lib (name "DC10EWA")(type "KiCad")(uri "C:/src/ScreamContainer/Hardware/libraries/DC10EWA/DC10EWA.kicad_sym")(options "")(descr ""))
+)
